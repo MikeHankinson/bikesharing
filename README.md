@@ -1,4 +1,5 @@
 # Business Analysis: NYC CitiBike
+----------------------------------------------------------------------------------
 
 ## Overview of the Statistical Analysis 
 Citi Bike is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. The intent of this analysis is to study the NYC ride sharing service to determine the feasibility of a similar program in Des Moines.  
@@ -7,26 +8,26 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using ![python code](NYC_CitiBike_Challenge.ipynb) in Juptyer Notebook.  
 
 ## Results
-1. A ride-sharing summary DataFrame by city type
+
 
 ![Fig_1](Pictures/6Map.PNG)
 <br>
 <br>
-text.....text.....
+Although not the only bicycle sharing business in the area, as shown above, Citi Bike is ubiquitous within the New York City boroughs.  Citi Bike began operations in the spring of 2013 with over 300 bike stations.  The service has experienced tremendous growth over its first 8 years now operating with over 1,000 stations, 17,000 bicycles and a daily ridership of nearly 50,000 people.  
 <br>
 <br>
 <br>
 ![Fig_2](Pictures/7PieGender.PNG)
 <br>
 <br>
-text.....text.....
+In August of 2019, Citi Bike facilitated over 2.3 million rides. Surveys of nearly 2/3 of the riders indicate a ridership of both men and women.  
 <br>
 <br>
 <br>
 ![Fig_3](Pictures/1CheckoutTimeAllRiders.PNG)
 <br>
 <br>
-text.....text.....
+Citi Bike offer a number of rider plans including the following: annual, weekday, daily and single-ride passes. note that the day pass allows for 24 hour rental.  The graph above shows rentals can last from less than an hour to the 24 hour limit, with most typical rides lasting 4-6 hours.     
 <br>
 <br>
 <br>
@@ -69,19 +70,6 @@ text.....text.....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Summary
 * Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
 
@@ -97,24 +85,3 @@ text.....text.....
 * Entice rural customer growth with short-term discounted prices or provide loyalty discounts for repeat riders. 
 * Provide additional resources (drivers) in potential growth markets (rural and suburban).  
 
-----------------------------------------------------------------------------------
-### Appendix of Figures and Tables
-----------------------------------------------------------------------------------
-
-![Fig_1](analysis/Fig1.png)
-<br>
-<br>
-**Fig. 1:  Ride Sharing - A Composite Look**
-<br>
-<br>
-<br>
-![Fig_2](analysis/PyBer_fare_summary.png)
-<br>
-<br>
-**Fig. 2:  Fares Through Time**
-<br>
-<br>
-<br>
-![Table 1](analysis/Ride_Sharing_Summary_by_city.PNG)
-<br>
-**Table. 1: Ride Sharing Summary by City Type**
