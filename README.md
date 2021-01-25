@@ -1,22 +1,19 @@
 # Business Analysis: NYC CitiBike
 
 ## Overview of the Statistical Analysis 
-Pyber is a ride sharing company that has collected considerable data regarding their service over time.  The purpose of this project is to provide exploratory analysis on the captured data in order to determine trends and correlations.  
+Citi Bike is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. The intent of this analysis is to study the NYC ride sharing service to determine the feasibility of a similar program in Des Moines.  
+
 
 ## Data Sources
-Data was provided in the following 2 files:
-* city_data.csv -- provides data specific to cities of operation, including: city, driver count and city type (urban, suburban or rural).
-* ride_data.csv -- provides data specific to each individual ride transaction over time, including: city, date, fare and a unique ride identification number.  
+Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using python code in Juptyer Notebook (file link!!!!).  
 
 These files are located in the attached Resources folder. The data was merged into a single dataframe for analysis.  
 
-## Methodology
-The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
-
 ## Results
 1. A ride-sharing summary DataFrame by city type
-2. A multiple-line chart of total fares for each city type
-3. A written report for the PyBer analysis (README.md)
+
+
+
 
 ## Summary
 * Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
