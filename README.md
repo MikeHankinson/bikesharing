@@ -7,6 +7,10 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 ## Data Sources
 Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using ![python code](NYC_CitiBike_Challenge.ipynb) in Juptyer Notebook.  
 
+## Data Sources
+![Online Tableau Story](https://public.tableau.com/profile/mike.hankinson#!/vizhome/Module14_Challenge_Deliverable2/StoryCitiBike?publish=yes)
+
+
 ## Results
 
 
@@ -72,5 +76,8 @@ This analysis presents the following in visualization form
 * Number of bike trips for all riders and genders for each hour of each day of the week
 * Number of bike trips for each type of user and gender for each day of the week.
 
-Further analysis is needed to glean success factors from the data.  
+Further analysis is needed to glean success factors from the data.  Once identified, use them to evaluate potential in Des Moines.  
 
+Additional information needed includes
+* Asset Utilization:  What percentage of bikes are rented at any given time? Determine how to balance inventory across stations.  
+* Customer Age: Complete and age analysis similar to the one completed for gender.  Along with demographic data, this will enable marketing efforts.  
