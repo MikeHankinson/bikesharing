@@ -6,11 +6,78 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 ## Data Sources
 Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using ![python code](NYC_CitiBike_Challenge.ipynb) in Juptyer Notebook.  
 
-
-bikesharing/NYC_CitiBike_Challenge.ipynb
-
 ## Results
 1. A ride-sharing summary DataFrame by city type
+
+![Fig_1](Pictures/6Map.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_2](Pictures/7PieGender.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_3](Pictures/1CheckoutTimeAllRiders.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_4](Pictures/2CheckoutTimeGender.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_4](Pictures/2CheckoutTimeGender.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_5](Pictures/3TripsByWeekdayPerHour.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_6](Pictures/4TripsByWeekdayPerGender.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+![Fig_7](Pictures/5TripsByGenderByWeekday.PNG)
+<br>
+<br>
+text.....text.....
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
