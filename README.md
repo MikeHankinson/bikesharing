@@ -68,7 +68,6 @@ The volume of both male and female Subscribers stays fairly consistent throughou
 Although male riders are predominant, female riders are common as well.   
 <br>
 <br>
-<br>
 ## Summary
 This analysis presents the following in visualization form
 
