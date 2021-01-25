@@ -54,7 +54,7 @@ Rental time trends continue across genders for both weekday and weekend riders.
 <br>
 <br>
 <br>
-![Fig_](P7ictures/5TripsByGenderByWeekday.PNG)
+![Fig_](Pictures/5TripsByGenderByWeekday.PNG)
 <br>
 <br>
 The volume of Annual Membership riders is significantly greater than that for Day Pass riders weeklong.  
