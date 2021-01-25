@@ -27,42 +27,48 @@ In August of 2019, Citi Bike facilitated over 2.3 million rides. Surveys of near
 ![Fig_3](Pictures/1CheckoutTimeAllRiders.PNG)
 <br>
 <br>
-Citi Bike offer a number of rider plans including the following: annual, weekday, daily and single-ride passes. note that the day pass allows for 24 hour rental.  The graph above shows rentals can last from less than an hour to the 24 hour limit, with most typical rides lasting 4-6 hours.     
+Citi Bike offers a number of rider plans including annual, weekday, daily and single-ride passes. Note that the day-pass allows for 24 hour rental.  The graph above shows rentals can last from less than an hour to the 24 hour limit, with most typical rides lasting 4-6 hours.     
 <br>
 <br>
 <br>
 ![Fig_4](Pictures/2CheckoutTimeGender.PNG)
 <br>
 <br>
-text.....text.....
+The above graph breaks out checkout time by gender and produces the same rental time trend across gender.  However, the number of bikes allocated to males is 3:1 at peak trip duration of 4-6 hours.  
 <br>
 <br>
 <br>
-![Fig_4](Pictures/2CheckoutTimeGender.PNG)
+![Fig_5](Pictures/2CheckoutTimeGender.PNG)
 <br>
 <br>
-text.....text.....
-<br>
-<br>
-<br>
-![Fig_5](Pictures/3TripsByWeekdayPerHour.PNG)
-<br>
-<br>
-text.....text.....
+The above shows checkout time by gender and produces the same rental time trend across gender.  However, the number of bikes allocated to males is 3:1 at peak trip duration of 4-6 hours. 
 <br>
 <br>
 <br>
-![Fig_6](Pictures/4TripsByWeekdayPerGender.PNG)
+![Fig_6](Pictures/3TripsByWeekdayPerHour.PNG)
 <br>
 <br>
-text.....text.....
+The heat map shows during weekdays, rentals are concentrated during rush hours (6:00am - 9:00am and 4:00pm-8:00pm) as customers travel to and from work.  
+
+Weekend customers tend to checkout bikes thorughout the day, concentrated fairly evenly between 9:00am - 8:00pm.
 <br>
 <br>
 <br>
-![Fig_7](Pictures/5TripsByGenderByWeekday.PNG)
+![Fig_7](Pictures/4TripsByWeekdayPerGender.PNG)
 <br>
 <br>
-text.....text.....
+Rental time trends continue across genders for both weekday and weekend riders.
+<br>
+<br>
+<br>
+![Fig_8](Pictures/5TripsByGenderByWeekday.PNG)
+<br>
+<br>
+The volume of Annual Membership riders is significantly greater than that for Day Pass riders weeklong.  
+
+The volume of both male and female Subcriber riders stays fairly consistant throughout the week.  
+
+Although male riders are predominant, female riders are common as well.   
 <br>
 <br>
 <br>
