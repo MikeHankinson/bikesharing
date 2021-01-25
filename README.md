@@ -38,14 +38,7 @@ The above graph breaks out checkout time by gender and produces the same rental 
 <br>
 <br>
 <br>
-![Fig_5](Pictures/2CheckoutTimeGender.PNG)
-<br>
-<br>
-The above shows checkout time by gender and produces the same rental time trend across gender.  However, the number of bikes allocated to males is 3:1 at peak trip duration of 4-6 hours. 
-<br>
-<br>
-<br>
-![Fig_6](Pictures/3TripsByWeekdayPerHour.PNG)
+![Fig_5](Pictures/3TripsByWeekdayPerHour.PNG)
 <br>
 <br>
 The heat map shows during weekdays, rentals are concentrated during rush hours (6:00am - 9:00am and 4:00pm-8:00pm) as customers travel to and from work.  
@@ -54,14 +47,14 @@ Weekend customers tend to checkout bikes thorughout the day, concentrated fairly
 <br>
 <br>
 <br>
-![Fig_7](Pictures/4TripsByWeekdayPerGender.PNG)
+![Fig_6](Pictures/4TripsByWeekdayPerGender.PNG)
 <br>
 <br>
 Rental time trends continue across genders for both weekday and weekend riders.
 <br>
 <br>
 <br>
-![Fig_8](Pictures/5TripsByGenderByWeekday.PNG)
+![Fig_](P7ictures/5TripsByGenderByWeekday.PNG)
 <br>
 <br>
 The volume of Annual Membership riders is significantly greater than that for Day Pass riders weeklong.  
