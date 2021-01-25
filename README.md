@@ -5,7 +5,7 @@
 Citi Bike is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. The intent of this analysis is to study the NYC ride sharing service to determine the feasibility of a similar program in Des Moines.  
 
 ## Data Sources
-Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using ![python code](NYC_CitiBike_Challenge.ipynb) in Juptyer Notebook.  
+Data for analysis was obtained from the Citi Bike website. Slight data manipulation was performed using [python code](NYC_CitiBike_Challenge.ipynb) in Juptyer Notebook.  
 
 ## Data Sources
 [Online Tableau Story](https://public.tableau.com/profile/mike.hankinson#!/vizhome/Module14_Challenge_Deliverable2/StoryCitiBike?publish=yes)
